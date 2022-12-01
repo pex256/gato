@@ -1,6 +1,3 @@
-#Haro Díaz José Luis
-#Proyecto Final
-
 #Función para imprimir el juego 
 def imprimir_gato(valores):
     print("\n")
