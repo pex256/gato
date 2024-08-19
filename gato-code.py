@@ -1,4 +1,6 @@
 #Función para imprimir el juego 
+
+#potoooo123123123
 def imprimir_gato(valores):
     print("\n")
     print("\t     |     |")
